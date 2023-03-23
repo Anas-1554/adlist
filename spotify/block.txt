@@ -127,7 +127,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.spotify.com
 0.0.0.0 api.zwizzarmyknife.com
-0.0.0.0 apresolve.spotify.com
+# 0.0.0.0 apresolve.spotify.com
 0.0.0.0 apx.moatads.com
 0.0.0.0 ar.voicefive.com
 0.0.0.0 arantxa.ash1.spotify.com
@@ -154,7 +154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ash1-msproxy-a4.ash.spotify.com
 0.0.0.0 ash2-idp-a1.ash2.spotify.com
 0.0.0.0 ash2-idp-a2.ash2.spotify.com
-0.0.0.0 ash-dealer.spotify.com
+# 0.0.0.0 ash-dealer.spotify.com
 0.0.0.0 ash-jumphost-a1.ash1.spotify.com
 0.0.0.0 ash-jumphost-a1.ash.spotify.com
 0.0.0.0 ash.weblb-wg.dual-gslb.spotify.com
@@ -177,8 +177,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
 0.0.0.0 audio-ake.spotify.com.edgesuite.net
 0.0.0.0 audio-akp-bbr-spotify-com.akamaized.net
-0.0.0.0 audio-akp-spotify-com.akamaized.net
-0.0.0.0 audio-akp-spotify-com.akamaized.net
+# 0.0.0.0 audio-akp-spotify-com.akamaized.net
+# 0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 audio-akp.spotify.com
 0.0.0.0 audio-akp.spotify.com.edgesuite.net
@@ -233,7 +233,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 car-dev.scdn.co
 0.0.0.0 car-prod.scdn.co
 0.0.0.0 car-staging.scdn.co
-0.0.0.0 cast.scdn.co
+# 0.0.0.0 cast.scdn.co
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdr.comscore.com
 0.0.0.0 cer.comscore.com
@@ -297,14 +297,14 @@ ff02::3 ip6-allhosts
 0.0.0.0 d3rt1990lpmkn.cloudfront.net
 0.0.0.0 d361oi6ppvq2ym.cloudfront.net
 0.0.0.0 d.admob.com
-0.0.0.0 daily-mix.scdn.co
+# 0.0.0.0 daily-mix.scdn.co
 0.0.0.0 daryl.ash1.spotify.com
 0.0.0.0 daryl.ash.spotify.com
 0.0.0.0 datawarehouse.spotify.com
 0.0.0.0 dayana.ash1.spotify.com
 0.0.0.0 dayana.ash.spotify.com
 0.0.0.0 dbg52463.moatads.com
-0.0.0.0 dealer.spotify.com
+# 0.0.0.0 dealer.spotify.com
 0.0.0.0 deborah.ash1.spotify.com
 0.0.0.0 deborah.ash.spotify.com
 0.0.0.0 decide.mixpanel.com
@@ -326,7 +326,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 docs.spotify.com
 0.0.0.0 doubleclick.
 0.0.0.0 doubleclick.net
-0.0.0.0 download.scdn.co
+# 0.0.0.0 download.scdn.co
 0.0.0.0 download.spotify.com
 0.0.0.0 download.spotify.map.fastly.net
 0.0.0.0 ds.serving-sys.com
@@ -376,7 +376,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gae2-accesspoint-b-zk3b.ap.spotify.com
 0.0.0.0 gae2.ap.spotify.com
 0.0.0.0 gae-dealer-ssl.spotify.com
-0.0.0.0 gae-dealer.spotify.com
+# 0.0.0.0 gae-dealer.spotify.com
 0.0.0.0 gae-spclient.spotify.com
 0.0.0.0 games.admob.com
 0.0.0.0 gcdn.2mdn.net
@@ -398,9 +398,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 gew1.ap.spotify.com
 0.0.0.0 gew1.ap.spotify.com
 0.0.0.0 gew-dealer-ssl.spotify.com
-0.0.0.0 gew-dealer.spotify.com
+# 0.0.0.0 gew-dealer.spotify.com
 0.0.0.0 gew-spclient.spotify.com
-0.0.0.0 global-dealer-ssl.spotify.com
+# 0.0.0.0 global-dealer-ssl.spotify.com
 0.0.0.0 go.scdn.co
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
@@ -416,7 +416,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 guc3-accesspoint-b-vn51.ap.spotify.com
 0.0.0.0 guc3.ap.spotify.com
 0.0.0.0 guc-dealer-ssl.spotify.com
-0.0.0.0 guc-dealer.spotify.com
+# 0.0.0.0 guc-dealer.spotify.com
 0.0.0.0 guc-spclient.spotify.com
 0.0.0.0 guc.weblb-wg.spotify.com
 0.0.0.0 gw.admob.com
@@ -498,7 +498,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 lb1-217593028.us-east-1.elb.amazonaws.com
 0.0.0.0 leadvisualdesigner.intercom.io
 0.0.0.0 line-in.spotify.com
-0.0.0.0 lineup-images.scdn.co
+# 0.0.0.0 lineup-images.scdn.co
 0.0.0.0 links.iterable.com
 0.0.0.0 links.spotify.com
 0.0.0.0 links.spotify.com
@@ -763,7 +763,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 t.admob.com
 0.0.0.0 t.myvisualiq.net
-0.0.0.0 t.scdn.co
+# 0.0.0.0 t.scdn.co
 0.0.0.0 t.update.moatads.com
 0.0.0.0 tap1.vip.sc9.admob.com
 0.0.0.0 tathra.ash1.spotify.com
@@ -1467,7 +1467,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 z.moatads.com
 0.0.0.0 heads-ak.spotify.com
 0.0.0.0 heads-akp.spotify.com
-0.0.0.0 audio-akp-spotify-com.akamaized.net
+# 0.0.0.0 audio-akp-spotify-com.akamaized.net
 0.0.0.0 audio-ak.spotify.com.eip.akadns.net
 0.0.0.0 eip-onnet.audio-ak.spotify.com.akahost.net
 0.0.0.0 eip-tata.audio-ak.spotify.com.akahost.net
