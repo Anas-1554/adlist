@@ -1,3 +1,22 @@
+# Total count: 77089
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Version: 2023-03-23 19:16:29(GMT+8) 
+
 0.0.0.0 r1---sn-n4v7knlz.googlevideo.com
 0.0.0.0 r2---sn-n4v7knlz.googlevideo.com
 0.0.0.0 r3---sn-n4v7knlz.googlevideo.com
